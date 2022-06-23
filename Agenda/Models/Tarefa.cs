@@ -1,0 +1,1 @@
+public record Tarefa(Guid It, string Titulo, bool Status);

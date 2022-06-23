@@ -1,1 +1,2 @@
-public record Tarefa(Guid It, string Titulo, bool Status);
+
+public record Tarefa(Guid Id, string Titulo, bool Status);
